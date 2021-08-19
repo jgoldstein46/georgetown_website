@@ -113,7 +113,7 @@ img {
 }
 
 section {
-    margin: 10rem auto;
+    margin: 2rem auto;
 }
 
 button {
@@ -168,7 +168,7 @@ hr {
 }
 
 .section-title {
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
     text-transform: uppercase;
 }
 
