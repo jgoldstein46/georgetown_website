@@ -73,6 +73,10 @@ h6 {
 p {
     margin-top: 0;
 }
+/* 
+div {
+    border: 2px dotted; 
+} */
 
 div::-moz-selection {
     color: #d01916;
@@ -111,6 +115,13 @@ img {
     height: auto;
     align-self: flex-start;
 }
+
+/* .person-image {
+     width: 500px;
+    height: 600px; 
+    object-fit: cover;
+    object-position: 25% 25%;
+} */
 
 section {
     margin: 2rem auto;
@@ -249,6 +260,11 @@ hr {
     max-width: 16px;
 }
 
+/* .team {
+    border: 2px dotted; 
+    padding: 5px; 
+} */
+
 
 /* Hover */
 
@@ -259,6 +275,8 @@ hr {
     align-items: stretch;
     background-attachment: scroll;
     min-height: -webkit-fill-available;
+    /* height: 600px;
+    width: 500px; */
 }
 
 .hover-outer-box .hover-inner-box {
